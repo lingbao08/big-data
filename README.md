@@ -22,10 +22,17 @@ show-going采用echarts来进行展示。
 
 这是一个flink数据处理代码。没有展示页面等。
 
+// TODO
+
+flink后期会补充窗口等处理，和spark的不一样的数据来源。
+
 
 ### storm-eg
 
 这是一个storm数据处理代码。没有展示页面等。
+
+//TODO
+这个后期会探索其stream写法。
 
 
 
